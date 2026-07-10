@@ -49,15 +49,15 @@ DSA/
 
 ## 📚 Topics
 
-| # | Topic | Description |
-|---|-------|-------------|
-| 1 | [Arrays (Part I)](./ARRAYS(PART%20I)) | Fundamentals — traversal, insertion, deletion, and searching |
-| 2 | [Arrays (Part II)](./ARRAYS(PART%20II)) | Advanced patterns — two pointers, sliding window, prefix sums |
-| 3 | [2D Arrays](./2D%20ARRAYS) | Matrix traversal, rotation, spiral order, searching |
-| 4 | [Bit Manipulation](./BIT%20MANIPULATION) | Bitwise operators, set bits, XOR tricks |
-| 5 | [Recursion](./RECURSION) | Base cases, recursive trees, classic recursive problems |
-| 6 | [Sorting](./SORTING) | Bubble, selection, insertion, merge, and quick sort |
-| 7 | [Strings](./STRINGS) | Palindromes, anagrams, pattern matching |
+| # | Topic | Description | Problems |
+|---|-------|-------------|:---:|
+| 1 | [Arrays (Part I)](./ARRAYS(PART%20I)) | Array basics — creation, I/O, linear & binary search, min/max, reversal, pairs, subarrays | 10 |
+| 2 | [Arrays (Part II)](./ARRAYS(PART%20II)) | Subarray sums, Kadane's Algorithm, duplicates, stock profit, trapping rainwater | 8 |
+| 3 | [2D Arrays](./2D%20ARRAYS) | Matrix creation, searching, and finding largest/smallest elements | 3 |
+| 4 | [Bit Manipulation](./BIT%20MANIPULATION) | Bitwise operators, odd/even check, get & set i-th bit | 4 |
+| 5 | [Recursion](./RECURSION) | Counting patterns, factorial, Fibonacci, searching, tiling, backtracking basics | 17 |
+| 6 | [Sorting](./SORTING) | Bubble sort, insertion sort, selection sort | 3 |
+| 7 | [Strings](./STRINGS) | String basics, palindromes, substrings, compression, StringBuilder | 12 |
 
 *(Detailed problem lists for each topic are maintained inside their respective folders.)*
 
